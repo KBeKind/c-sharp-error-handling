@@ -12,3 +12,4 @@ C:\Users\kyler\Desktop\DOTNET-PRACTICE\CSharp-Error-Handling\ConsoleCalculator\o
 C:\Users\kyler\Desktop\DOTNET-PRACTICE\CSharp-Error-Handling\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.pdb
 C:\Users\kyler\Desktop\DOTNET-PRACTICE\CSharp-Error-Handling\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.genruntimeconfig.cache
 C:\Users\kyler\Desktop\DOTNET-PRACTICE\CSharp-Error-Handling\ConsoleCalculator\obj\Debug\net6.0\ref\ConsoleCalculator.dll
+C:\Users\kyler\Desktop\DOTNET-PRACTICE\CSharp-Error-Handling\ConsoleCalculator\obj\Debug\net6.0\ConsoleCalculator.sourcelink.json
