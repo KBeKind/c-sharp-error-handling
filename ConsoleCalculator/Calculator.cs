@@ -14,23 +14,19 @@ public class Calculator
             {
                 return Divide(number1, number2);
             }
-            catch(DivideByZeroException ex)
+            catch(Exception ex)
             {
                 Console.WriteLine("...logging...");
                 //throw;
-                throw new ArithmeticException("An error occurred during calculation.", ex);
+                throw new CalculationException(ex);
             }
-            {
-            
-            
-            }
-
+       
 
             return Divide(number1, number2);
         }
         else
         {
-            var ex = new ArgumentOutOfRangeException(nameof(operation), "The mathematical operator is not supported.");
+            var ex = new CalculationOperationNotSupportedException(operation);
             throw ex;
         }
     }
